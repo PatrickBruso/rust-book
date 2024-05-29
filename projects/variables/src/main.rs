@@ -27,7 +27,7 @@ fn main() {
     let spaces = spaces.len();
     println!("{spaces}");
 
-    // this would not work
+    // this would not work because you can't assign integer to a string
     // let mut spaces = "    ";
     // spaces = spaces.len();
 }
